@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the securing those apprentices from indempnity that will lift themselves under the command of Sir William Waller : also two speciall orders, viz., I. That all truncks and other carriages that come out of the city, be searched at the courts of guards, and those to be tryed by a councell of war that shall send either flax, brimstone or saltpeter, or other provision for war, by water or land, these ten dayes without license. II. That a collection be made in all parish-churches and chappels throughout London and Westminster for sick and maymed souldiers, and that the said order be read in all the churches and chappels as aforesaid, upon te 27 of September, being a publidque fast-day.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22154</idno><idno type="EEBO-CITATION">12128435</idno>
+  <idno type="VID">196892</idno>
+  <idno type="EEBO-PROQUEST">2240951889</idno>
+  
+            <idno type="STC">Wing E2037</idno>
+            <idno type="OCLC">12128435</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22154)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196892)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E69, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the securing those apprentices from indempnity that will lift themselves under the command of Sir William Waller : also two speciall orders, viz., I. That all truncks and other carriages that come out of the city, be searched at the courts of guards, and those to be tryed by a councell of war that shall send either flax, brimstone or saltpeter, or other provision for war, by water or land, these ten dayes without license. II. That a collection be made in all parish-churches and chappels throughout London and Westminster for sick and maymed souldiers, and that the said order be read in all the churches and chappels as aforesaid, upon te 27 of September, being a publidque fast-day.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>September 26, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Waller, William, --  Sir, 1597?-1668.</term>
+               <term type="corporate_name">England and Wales. --  Army.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196892:1"/>
+            <pb facs="tcp:196892:1"/>
+            <p> AN ORDINANCE OF The <hi>Lords</hi> and <hi>Commons</hi> assembled IN PARLIAMENT, For the securing those Apprentices from indempnity, that will List themselves under the command of Sir <hi>William Waller.</hi>
+            </p>
+            <p>Also, Two speciall Orders, <hi>VIZ.</hi>
+            </p>
+            <p n="1">I. That all Truncks, and other Carriages that come out of the City, be searched at the Courts of Guards; And those to be tryed by a Councell of War, that shall send either Flax, Brimstone or Saltpeter, or other provision for War, by wa<g ref="char:EOLhyphen"/>ter or land these Ten dayes, without License.</p>
+            <p n="2">II. That a Collection be made in all Parish-Churches and Chappels throughout <hi>London</hi> and <hi>Westminster,</hi> for sick and maymed Souldiers; And that the said Order be read in all the Churches and Chappels as aforesaid, upon the 27. of September, being a publique Fast-day.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That this Or<g ref="char:EOLhyphen"/>dinance and Orders be forthwith printed &amp; published: </p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>Edward Husbands,</hi> September 26. 1643.</p>
+            <pb facs="tcp:196892:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="3" facs="tcp:196892:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris</hi> 15 <hi>Septem.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>WHereas in times of common Danger and Necessity, the in<g ref="char:EOLhyphen"/>terest of private persons ought to give way to the Publique; It is Ordained and Declared by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, That such Ap<g ref="char:EOLhyphen"/>prentices unto VVatermen, plying and Rowing upon the River of <hi>Thames,</hi> as have been or shall be Listed, to serve as Souldiers, for the Defence of the Pro<g ref="char:EOLhyphen"/>testant Religion, and Liberty of the Kingdom, His Majesties Regall Per<g ref="char:EOLhyphen"/>son, the Parliament, and the city of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> under the command of Sir <hi>William Waller;</hi> Their Sureties, and such as stand ingaged for them, shall be secured against their Masters, their Executors
+<pb n="4" facs="tcp:196892:3"/> and Administrators, from all losse and inconveniencie, by forfeiture of Bonds, Covenants, Infranchisements, or other<g ref="char:EOLhyphen"/>wise: And that after this Publique ser<g ref="char:EOLhyphen"/>vice ended, the Masters of such Ap<g ref="char:EOLhyphen"/>prentices shall be commanded and re<g ref="char:EOLhyphen"/>quired to receive them again into their service, without imposing upon them any punishment, losse or prejudice for their absence, in the Defence of the commonwealth.</p>
+            <p>And the Lords and Commons do further declare, That if it shall appear, that the Masters of such Apprentices have received any considerable losse by the absence of their Apprentices, they will take care that reasonable satisfacti<g ref="char:EOLhyphen"/>on shall be made unto them out of the Publique-Stock of the Kingdom, ac<g ref="char:EOLhyphen"/>cording to Iustice and Indifferency.</p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="5" facs="tcp:196892:3"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbathi,</hi> 23 <hi>Septem.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>IT is this Day Ordered by the Commons as<g ref="char:EOLhyphen"/>sembled in Parliament, That all Trunks and other carriages that come out of the City, to passe the Courts of Guards, shall not passe till they be searched by such Men as the Commit<g ref="char:EOLhyphen"/>tee for the <hi>Militia</hi> shall depute, or by the Courts of Guards. And that my Lord Major be desi<g ref="char:EOLhyphen"/>red to give order, That no Flax, Brimstone, or Saltpeter, or other things that tends to the ma<g ref="char:EOLhyphen"/>king Provisions for War, be permitted to passe these 10 daies either by water or by land, unles it be by Warrant under the hand of <hi>Mr. Speaker;</hi> And that such Goods shall be good prizes as shall be so seized; And it is left to the Com<g ref="char:EOLhyphen"/>mittee for the <hi>Militia,</hi> to reward those that shall so seize the same out of the said Goods, and the Persons that shall so send any of the said Goods as aforesaid, shall be secured and tryed by a Councell of War; And this Order is to be Printed and Published, and to be sent to the severall Courts of Guards by the Com<g ref="char:EOLhyphen"/>mittee for the <hi>Militia.</hi>
+            </p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="6" facs="tcp:196892:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbathi,</hi> 23 <hi>Septemb.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered by the Com<g ref="char:EOLhyphen"/>mons assembled in Parliament, That on VVednesday next (being the day appointed for publique Humiliation) there shalbe a collection made in all the Parish-Churches, in and about the cities of <hi>London</hi> and <hi>Westminster,</hi> that are mentioned in the weekly Bill of Mor<g ref="char:EOLhyphen"/>tallity, as also in the severall Chap<g ref="char:EOLhyphen"/>pels within the said Limits, by the Churchwardens, and other Officers of the said Parishes and Chappels, for and towards the relief of sick and maimed Souldiers; And the Monies by them so collected, they are not to detain, upon any pretence whatsoever, but make payment thereof at Tallow-chandlers-Hall neer Dowgate, on Friday next, being the 29 of this instant September,
+<pb n="7" facs="tcp:196892:4"/> 1643. unto Mr. <hi>William Greenhill,</hi> Mr. <hi>John Pocock,</hi> Mr. <hi>John Randall,</hi> and Mr. <hi>Richard Hutchinson,</hi> (or any two of them) citizens of London, appointed to be Treasurers for the receiving and paying of Monies to sick and maimed Souldiers. And it is hereby likewise Ordered, That the Ministers of the said severall Parishes and Chappels shall ear<g ref="char:EOLhyphen"/>nestly perswade the people freely to contribute to this so pious, charitable, and honourable a work, in this time of great extremity, there being many mai<g ref="char:EOLhyphen"/>med men here already, &amp; more expect<g ref="char:EOLhyphen"/>ed from the Army, for the recovery and cure of whom there is great reason to provide, they having so freely &amp; cheer<g ref="char:EOLhyphen"/>fully hazzarded their lives, for the pre<g ref="char:EOLhyphen"/>servation of all our Lives, Liberties, and the true Protestant Religion.</p>
+            <closer>
+               <signed>H: Elsynge, Cler: Parl: D: Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
